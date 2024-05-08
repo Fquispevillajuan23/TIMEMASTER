@@ -17,7 +17,11 @@ Pomodoro).
 
 #INTEGRANTES:
 Castro Arteaga Helen Sayumi
+
 Melendez Valenzuela Erick Anderson
+
 Quispe Villajuan Fredy Ramses
+
 Rojas Ramos Sonia Gisela
+
 Rojas Ortiz  Franklin Rodolfo
