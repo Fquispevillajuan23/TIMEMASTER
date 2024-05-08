@@ -15,7 +15,8 @@ descanso.
 6. Configuración del Tiempo: Los usuarios podrán configurar la duración de cada temporizador (temporizador estándar, alarma y temporizador
 Pomodoro).
 
-#INTEGRANTES:
+INTEGRANTES:
+---------------
 Castro Arteaga Helen Sayumi
 
 Melendez Valenzuela Erick Anderson
